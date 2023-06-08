@@ -1,4 +1,4 @@
-// pyramid with numer series.
+// pyramid with number by pattern program.
 
 public class pyramid
 {
